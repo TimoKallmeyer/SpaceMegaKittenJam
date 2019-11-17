@@ -1469,3 +1469,1098 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.16-23.18.07:871][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.16-23.18.07:957][984]BlueprintLog: New page: Compile TwinStickPawn
 [2019.11.16-23.18.08:168][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.11.16-23.19.51:382][ 47]LogMaterial: Warning: Material /Game/TwinStick/Meshes/BaseMaterial.BaseMaterial needed to have new flag set bUsedWithSplineMeshes !
+[2019.11.16-23.19.51:385][ 47]LogMaterial: Display: Missing cached shader map for material BaseMaterial, compiling. 
+[2019.11.16-23.20.03:421][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.20.03:435][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.03:435][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.20.03:435][768]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 1:20:03 AM)
+[2019.11.16-23.20.03:435][768]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.16-23.20.03:440][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005103s)
+[2019.11.16-23.20.03:441][768]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.16-23.20.03:441][768]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2019.11.16-23.20.03:441][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.005788s)
+[2019.11.16-23.20.03:481][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.11.16-23.20.03:514][768]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-23.20.03:526][768]LogInit: FAudioDevice initialized.
+[2019.11.16-23.20.03:555][768]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.16-23.20.03:561][768]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-00.20.03
+[2019.11.16-23.20.03:562][768]LogWorld: Bringing up level for play took: 0.006244
+[2019.11.16-23.20.03:575][768]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.511
+[2019.11.16-23.20.03:575][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.11:842][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.11:842][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.20.11:876][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.20.11:876][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.11:923][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.20.11:927][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.11.16-23.20.11:961][726]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.11.16-23.20.13:336][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.20.13:433][872]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.20.13:447][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.13:447][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.20.13:447][872]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 1:20:13 AM)
+[2019.11.16-23.20.13:447][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.16-23.20.13:452][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004661s)
+[2019.11.16-23.20.13:453][872]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.16-23.20.13:453][872]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.11.16-23.20.13:453][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.005315s)
+[2019.11.16-23.20.13:497][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.11.16-23.20.13:528][872]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-23.20.13:539][872]LogInit: FAudioDevice initialized.
+[2019.11.16-23.20.13:568][872]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.16-23.20.13:574][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-00.20.13
+[2019.11.16-23.20.13:575][872]LogWorld: Bringing up level for play took: 0.006186
+[2019.11.16-23.20.13:588][872]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.498
+[2019.11.16-23.20.13:589][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.21:942][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.21:942][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.20.21:973][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.20.21:974][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.22:021][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.20.22:025][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.16-23.20.22:058][838]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.11.16-23.20.23:073][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.20.23:150][952]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.20.23:163][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.23:164][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.20.23:164][952]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 1:20:23 AM)
+[2019.11.16-23.20.23:164][952]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.16-23.20.23:169][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004722s)
+[2019.11.16-23.20.23:169][952]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.16-23.20.23:169][952]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2019.11.16-23.20.23:169][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.005363s)
+[2019.11.16-23.20.23:213][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.11.16-23.20.23:245][952]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-23.20.23:256][952]LogInit: FAudioDevice initialized.
+[2019.11.16-23.20.23:286][952]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.16-23.20.23:292][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-00.20.23
+[2019.11.16-23.20.23:293][952]LogWorld: Bringing up level for play took: 0.006352
+[2019.11.16-23.20.23:306][952]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.78
+[2019.11.16-23.20.23:307][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.32:199][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.32:199][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.20.32:230][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.20.32:230][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.32:280][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.20.32:284][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.11.16-23.20.32:320][985]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.11.16-23.20.40:785][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.20.40:860][838]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.20.40:873][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.40:873][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.20.40:874][838]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 1:20:40 AM)
+[2019.11.16-23.20.40:874][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.16-23.20.40:878][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004797s)
+[2019.11.16-23.20.40:879][838]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.16-23.20.40:879][838]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2019.11.16-23.20.40:879][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.005487s)
+[2019.11.16-23.20.40:923][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.11.16-23.20.40:954][838]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-23.20.40:965][838]LogInit: FAudioDevice initialized.
+[2019.11.16-23.20.40:995][838]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.16-23.20.41:001][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-00.20.41
+[2019.11.16-23.20.41:001][838]LogWorld: Bringing up level for play took: 0.006120
+[2019.11.16-23.20.41:014][838]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.928
+[2019.11.16-23.20.41:014][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.49:665][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.49:666][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.20.49:698][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.20.49:698][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.20.49:744][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.20.49:749][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.16-23.20.49:781][853]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.11.16-23.21.46:485][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.21.50:103][363]LogEditorFactories: Performing atomic reimport of [D:/Dropbox/Studiumaustausch/CatJam/SM_Tunnel.fbx]
+[2019.11.16-23.21.50:125][363]LogFbx: Loading FBX Scene from D:/Dropbox/Studiumaustausch/CatJam/SM_Tunnel.fbx
+[2019.11.16-23.21.50:132][363]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.16-23.21.50:133][363]LogFbx: Display: Triangulating static mesh Cylinder
+[2019.11.16-23.21.50:155][363]LogStaticMesh: Building static mesh SM_Tunnel...
+[2019.11.16-23.21.50:158][363]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/SM_Tunnel.SM_Tunnel
+[2019.11.16-23.21.50:187][363]LogEditorFactories: -- imported successfully
+[2019.11.16-23.21.53:057][657]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.21.53:071][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.21.53:071][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.21.53:071][657]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 1:21:53 AM)
+[2019.11.16-23.21.53:072][657]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.16-23.21.53:077][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005238s)
+[2019.11.16-23.21.53:077][657]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.16-23.21.53:078][657]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.11.16-23.21.53:078][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.006033s)
+[2019.11.16-23.21.53:122][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.16-23.21.53:155][657]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-23.21.53:165][657]LogInit: FAudioDevice initialized.
+[2019.11.16-23.21.53:192][657]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.16-23.21.53:199][657]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-00.21.53
+[2019.11.16-23.21.53:199][657]LogWorld: Bringing up level for play took: 0.006369
+[2019.11.16-23.21.53:212][657]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 1.126
+[2019.11.16-23.21.53:212][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.22.01:287][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.22.01:287][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.22.01:323][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.22.01:323][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.22.01:368][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.22.01:372][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.11.16-23.22.01:406][608]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.11.16-23.22.02:442][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.22.02:516][726]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.22.02:529][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.22.02:529][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.22.02:529][726]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 1:22:02 AM)
+[2019.11.16-23.22.02:529][726]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.16-23.22.02:535][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005168s)
+[2019.11.16-23.22.02:535][726]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.16-23.22.02:535][726]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2019.11.16-23.22.02:535][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.005799s)
+[2019.11.16-23.22.02:579][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.11.16-23.22.02:610][726]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-23.22.02:621][726]LogInit: FAudioDevice initialized.
+[2019.11.16-23.22.02:653][726]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.16-23.22.02:659][726]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-00.22.02
+[2019.11.16-23.22.02:659][726]LogWorld: Bringing up level for play took: 0.006127
+[2019.11.16-23.22.02:673][726]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.587
+[2019.11.16-23.22.02:673][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.22.11:734][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.22.11:735][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.22.11:770][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.22.11:770][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.22.11:817][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.22.11:821][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.11.16-23.22.11:854][788]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.11.16-23.22.30:674][824]LogEditorViewport: Clicking on Actor (LMB): BP_Tunnel_C (BP_Tunnel)
+[2019.11.16-23.23.00:773][221]Cmd: TRANSACTION UNDO
+[2019.11.16-23.23.00:773][221]LogEditorTransaction: Undo Move Actors
+[2019.11.16-23.23.35:742][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-23.23.35:833][842]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-23.23.35:847][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.23.35:848][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-23.23.35:848][842]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 1:23:35 AM)
+[2019.11.16-23.23.35:848][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.16-23.23.35:854][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006618s)
+[2019.11.16-23.23.35:855][842]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.16-23.23.35:855][842]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2019.11.16-23.23.35:855][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.007464s)
+[2019.11.16-23.23.35:946][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.16-23.23.35:989][842]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-23.23.36:000][842]LogInit: FAudioDevice initialized.
+[2019.11.16-23.23.36:027][842]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.16-23.23.36:028][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-00.23.36
+[2019.11.16-23.23.36:028][842]LogWorld: Bringing up level for play took: 0.001016
+[2019.11.16-23.23.36:041][842]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.045
+[2019.11.16-23.23.36:042][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.23.50:101][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.23.50:102][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.23.50:132][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-23.23.50:132][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.16-23.23.50:184][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-23.23.50:188][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.11.16-23.23.50:227][508]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.11.16-23.25.12:804][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.11.16-23.25.13:082][171]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/TimoTestMap_Auto6215F7E6342AD99EF8CC256B72E9A0D40.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Maps/TimoTestMap_Auto6.umap'
+[2019.11.16-23.25.13:085][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TimoTestMap' took 0.341
+[2019.11.16-23.25.13:085][171]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.341
+[2019.11.16-23.25.13:090][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStickBP/Blueprints/TwinStickPawn] ([1] browsable assets)...
+[2019.11.16-23.25.13:105][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn]
+[2019.11.16-23.25.13:105][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/TwinStickPawn]
+[2019.11.16-23.25.13:215][171]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/TwinStickPawn_Auto6BB388B47467687C7FC87EFB224111111.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/TwinStickBP/Blueprints/TwinStickPawn_Auto6.uasset'
+[2019.11.16-23.25.13:218][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TwinStick/Meshes/BaseMaterial] ([1] browsable assets)...
+[2019.11.16-23.25.13:232][171]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TwinStick/Meshes/BaseMaterial.BaseMaterial]
+[2019.11.16-23.25.13:232][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStick/Meshes/BaseMaterial]
+[2019.11.16-23.25.13:261][171]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/BaseMaterial_Auto6714BE44E46D55E379A07C78AA8C47F9A.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/TwinStick/Meshes/BaseMaterial_Auto6.uasset'
+[2019.11.16-23.25.13:262][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/SM_Tunnel] ([1] browsable assets)...
+[2019.11.16-23.25.13:273][171]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/SM_Tunnel.SM_Tunnel]
+[2019.11.16-23.25.13:273][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/SM_Tunnel]
+[2019.11.16-23.25.13:273][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Tunnel" FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Meshes/SM_Tunnel_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2019.11.16-23.25.13:311][171]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/SM_Tunnel_Auto63DC378694EDA806EC00AB78CA973082C.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Meshes/SM_Tunnel_Auto6.uasset'
+[2019.11.16-23.25.13:312][171]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2019.11.16-23.25.13:312][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tunnel]
+[2019.11.16-23.25.13:360][171]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/BP_Tunnel_Auto6C7051DE7410DDF86F1650E92A5E77AA7.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Blueprints/BP_Tunnel_Auto6.uasset'
+[2019.11.16-23.25.13:361][171]LogFileHelpers: Auto-saving content packages took 0.270
+[2019.11.17-00.01.14:326][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.01.18:049][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.01.18:148][949]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.01.18:164][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.01.18:164][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.01.18:164][949]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:01:18 AM)
+[2019.11.17-00.01.18:164][949]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.01.18:171][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006593s)
+[2019.11.17-00.01.18:171][949]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.01.18:171][949]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.11.17-00.01.18:171][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.007318s)
+[2019.11.17-00.01.18:218][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.11.17-00.01.18:250][949]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.01.18:261][949]LogInit: FAudioDevice initialized.
+[2019.11.17-00.01.18:290][949]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.01.18:291][949]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.01.18
+[2019.11.17-00.01.18:291][949]LogWorld: Bringing up level for play took: 0.001109
+[2019.11.17-00.01.18:305][949]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.219
+[2019.11.17-00.01.18:305][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.01.32:427][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.01.32:427][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.01.32:457][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.01.32:457][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.01.32:502][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.01.32:507][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.11.17-00.01.32:540][589]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.11.17-00.01.35:271][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.01.36:117][938]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.17-00.02.10:681][630]Cmd: TRANSACTION UNDO
+[2019.11.17-00.02.10:681][630]LogEditorTransaction: Undo Rotate Actors
+[2019.11.17-00.02.29:403][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.03.42:818][639]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode
+[2019.11.17-00.03.47:040][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.06.48:872][506]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.11.17-00.06.49:097][506]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/TimoTestMap_Auto7A36BD6484FF469EAF0F084A0E5A39C10.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Maps/TimoTestMap_Auto7.umap'
+[2019.11.17-00.06.49:099][506]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TimoTestMap' took 0.320
+[2019.11.17-00.06.49:099][506]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.320
+[2019.11.17-00.06.49:101][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2019.11.17-00.06.49:101][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tunnel]
+[2019.11.17-00.06.49:141][506]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/BP_Tunnel_Auto77A6C690E4EBF9C5B2C69E79321E67354.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Blueprints/BP_Tunnel_Auto7.uasset'
+[2019.11.17-00.06.49:142][506]LogFileHelpers: Auto-saving content packages took 0.042
+[2019.11.17-00.12.42:956][718]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.11.17-00.12.42:993][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.12.43:795][768]LogEditorViewport: Clicking on Actor (LMB): BP_Tunnel_C (BP_Tunnel)
+[2019.11.17-00.12.49:340][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.16.36:379][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.17.02:834][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.11.17-00.17.02:834][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TimoTestMap' took 0.048
+[2019.11.17-00.17.02:836][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2019.11.17-00.17.02:836][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tunnel]
+[2019.11.17-00.17.02:876][119]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/BP_Tunnel_Auto8B7687EB44F993F34E48AF79E07A9F8EA.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Blueprints/BP_Tunnel_Auto8.uasset'
+[2019.11.17-00.17.02:876][119]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.11.17-00.26.14:803][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.26.31:252][ 69]LogRenderer: Reallocating scene render targets to support 2868x1924 Format 10 NumSamples 1 (Frame:119085).
+[2019.11.17-00.27.16:792][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.27.32:526][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.27.45:261][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.27.48:480][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.27.55:478][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.28.21:292][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.28.21:367][550]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.28.21:617][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.11.17-00.28.25:394][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.28.25:469][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.28.25:486][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.28.25:486][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.28.25:486][768]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:28:25 AM)
+[2019.11.17-00.28.25:486][768]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.28.25:493][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006627s)
+[2019.11.17-00.28.25:493][768]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.28.25:493][768]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.11.17-00.28.25:493][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.007369s)
+[2019.11.17-00.28.25:541][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.11.17-00.28.25:574][768]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.28.25:587][768]LogInit: FAudioDevice initialized.
+[2019.11.17-00.28.25:620][768]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.28.25:621][768]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.28.25
+[2019.11.17-00.28.25:622][768]LogWorld: Bringing up level for play took: 0.001173
+[2019.11.17-00.28.25:635][768]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.452
+[2019.11.17-00.28.25:635][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.28.40:986][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.28.40:986][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.28.41:019][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.28.41:019][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.28.41:065][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.28.41:070][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.11.17-00.28.41:101][605]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.11.17-00.28.42:451][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.28.42:535][702]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.28.42:549][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.28.42:549][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.28.42:549][702]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:28:42 AM)
+[2019.11.17-00.28.42:550][702]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.28.42:556][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006701s)
+[2019.11.17-00.28.42:557][702]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.28.42:557][702]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2019.11.17-00.28.42:557][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.007428s)
+[2019.11.17-00.28.42:598][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.17-00.28.42:629][702]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.28.42:640][702]LogInit: FAudioDevice initialized.
+[2019.11.17-00.28.42:670][702]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.28.42:671][702]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.28.42
+[2019.11.17-00.28.42:671][702]LogWorld: Bringing up level for play took: 0.001094
+[2019.11.17-00.28.42:684][702]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.598
+[2019.11.17-00.28.42:685][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.28.57:069][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.28.57:069][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.28.57:100][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.28.57:100][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.28.57:148][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.28.57:152][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.11.17-00.28.57:184][427]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.11.17-00.29.00:400][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.29.00:632][661]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.17-00.30.16:285][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.30.16:346][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.11.17-00.30.16:555][819]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/TimoTestMap_Auto92EF0EF1E4477A8B871EBED871D3246BD.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Maps/TimoTestMap_Auto9.umap'
+[2019.11.17-00.30.16:974][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TimoTestMap' took 0.667
+[2019.11.17-00.30.16:974][819]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.667
+[2019.11.17-00.30.16:976][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2019.11.17-00.30.16:976][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tunnel]
+[2019.11.17-00.30.17:016][819]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/BP_Tunnel_Auto9B707DDBF4F8AA9F9E138E58BE553C95B.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Blueprints/BP_Tunnel_Auto9.uasset'
+[2019.11.17-00.30.17:017][819]LogFileHelpers: Auto-saving content packages took 0.042
+[2019.11.17-00.31.21:587][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.31.38:420][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.31.39:995][ 36]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.11.17-00.31.40:922][ 36]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.17-00.38.12:738][195]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.17-00.38.12:757][195]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.17-00.38.31:830][495]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.38.31:847][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.38.31:847][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.38.31:847][495]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:38:31 AM)
+[2019.11.17-00.38.31:847][495]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.38.31:854][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006677s)
+[2019.11.17-00.38.31:854][495]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.38.31:855][495]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2019.11.17-00.38.31:855][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.007763s)
+[2019.11.17-00.38.31:933][495]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2019.11.17-00.38.31:973][495]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.38.31:986][495]LogInit: FAudioDevice initialized.
+[2019.11.17-00.38.32:014][495]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.38.32:015][495]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.38.32
+[2019.11.17-00.38.32:015][495]LogWorld: Bringing up level for play took: 0.001055
+[2019.11.17-00.38.32:029][495]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.058
+[2019.11.17-00.38.32:029][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.38.45:281][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.38.45:281][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.38.45:311][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.38.45:311][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.38.45:360][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.38.45:368][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.11.17-00.38.45:399][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.11.17-00.38.47:591][226]LogEditorViewport: Clicking on Actor (LMB): BP_Tunnel_C (BP_Tunnel)
+[2019.11.17-00.38.47:909][245]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.17-00.42.45:067][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.44.14:876][593]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.44.14:887][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:888][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:889][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:889][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:890][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:890][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:891][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:892][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:892][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:893][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:893][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:894][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:894][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:895][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:896][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.14:896][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:143][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.11.17-00.44.15:145][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:146][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:146][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:147][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:148][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:148][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:149][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:149][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:150][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:151][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:151][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:152][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:152][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:153][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:153][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:154][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:168][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:169][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:169][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:170][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:171][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:171][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:172][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:172][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:173][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:173][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:174][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:174][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:175][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:176][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:176][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.15:177][593]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.44.19:248][781]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.44.19:272][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.19:272][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.44.19:272][781]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:44:19 AM)
+[2019.11.17-00.44.19:272][781]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.44.19:280][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007303s)
+[2019.11.17-00.44.19:280][781]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.44.19:280][781]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.11.17-00.44.19:281][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.008235s)
+[2019.11.17-00.44.19:327][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.11.17-00.44.19:359][781]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.44.19:370][781]LogInit: FAudioDevice initialized.
+[2019.11.17-00.44.19:402][781]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.44.19:403][781]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.44.19
+[2019.11.17-00.44.19:403][781]LogWorld: Bringing up level for play took: 0.000990
+[2019.11.17-00.44.19:416][781]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.67
+[2019.11.17-00.44.19:416][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.26:601][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.26:601][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.44.26:636][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.44.26:637][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.26:690][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.44.26:695][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.11.17-00.44.26:760][513]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.11.17-00.44.28:173][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.44.28:277][612]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.44.28:293][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.28:293][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.44.28:293][612]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:44:28 AM)
+[2019.11.17-00.44.28:293][612]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.44.28:300][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006733s)
+[2019.11.17-00.44.28:300][612]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.44.28:301][612]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.11.17-00.44.28:301][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.007420s)
+[2019.11.17-00.44.28:344][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.17-00.44.28:376][612]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.44.28:386][612]LogInit: FAudioDevice initialized.
+[2019.11.17-00.44.28:418][612]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.44.28:419][612]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.44.28
+[2019.11.17-00.44.28:419][612]LogWorld: Bringing up level for play took: 0.000996
+[2019.11.17-00.44.28:432][612]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.346
+[2019.11.17-00.44.28:432][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.34:308][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.34:308][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.44.34:349][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.44.34:349][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.34:398][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.44.34:403][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.17-00.44.34:468][222]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.11.17-00.44.39:147][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.44.51:541][341]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.44.51:798][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.11.17-00.44.54:191][496]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.44.54:218][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.54:218][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.44.54:218][496]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:44:54 AM)
+[2019.11.17-00.44.54:218][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.44.54:224][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006359s)
+[2019.11.17-00.44.54:225][496]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.44.54:225][496]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2019.11.17-00.44.54:225][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.007011s)
+[2019.11.17-00.44.54:272][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.11.17-00.44.54:304][496]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.44.54:315][496]LogInit: FAudioDevice initialized.
+[2019.11.17-00.44.54:344][496]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.44.54:345][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.44.54
+[2019.11.17-00.44.54:345][496]LogWorld: Bringing up level for play took: 0.000974
+[2019.11.17-00.44.54:358][496]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.272
+[2019.11.17-00.44.54:358][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.58:304][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.58:304][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.44.58:343][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.44.58:344][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.44.58:396][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.44.58:401][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.11.17-00.44.58:472][860]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.11.17-00.45.02:324][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.45.23:288][499]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.45.23:298][499]LogBlueprintUserMessages: [BP_Tunnel_C_0] 1599.949951
+[2019.11.17-00.45.23:299][499]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.45.23:543][499]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.11.17-00.45.23:545][499]LogBlueprintUserMessages: [BP_Tunnel_C_0] 1599.949951
+[2019.11.17-00.45.23:546][499]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.45.23:566][499]LogBlueprintUserMessages: [BP_Tunnel_C_0] 1599.949951
+[2019.11.17-00.45.23:567][499]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.45.31:977][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.45.32:006][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.45.32:006][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.45.32:006][ 57]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:45:32 AM)
+[2019.11.17-00.45.32:006][ 57]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.45.32:013][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006329s)
+[2019.11.17-00.45.32:013][ 57]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.45.32:014][ 57]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2019.11.17-00.45.32:014][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.006981s)
+[2019.11.17-00.45.32:067][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.11.17-00.45.32:099][ 57]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.45.32:110][ 57]LogInit: FAudioDevice initialized.
+[2019.11.17-00.45.32:137][ 57]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.45.32:138][ 57]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.45.32
+[2019.11.17-00.45.32:138][ 57]LogWorld: Bringing up level for play took: 0.000984
+[2019.11.17-00.45.32:152][ 57]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.066
+[2019.11.17-00.45.32:152][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.45.43:153][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.45.43:153][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.45.43:193][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.45.43:194][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.45.43:245][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.45.43:251][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.11.17-00.45.43:320][131]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2019.11.17-00.45.47:059][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.46.27:590][ 81]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.46.27:855][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.11.17-00.46.29:252][172]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.46.29:275][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.46.29:276][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.46.29:276][172]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:46:29 AM)
+[2019.11.17-00.46.29:276][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.46.29:282][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006445s)
+[2019.11.17-00.46.29:283][172]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.46.29:283][172]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2019.11.17-00.46.29:283][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.007125s)
+[2019.11.17-00.46.29:333][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.11.17-00.46.29:366][172]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.46.29:376][172]LogInit: FAudioDevice initialized.
+[2019.11.17-00.46.29:405][172]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.46.29:406][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.46.29
+[2019.11.17-00.46.29:406][172]LogWorld: Bringing up level for play took: 0.001016
+[2019.11.17-00.46.29:420][172]LogBlueprintUserMessages: [BP_Tunnel_5] 25826.552734
+[2019.11.17-00.46.29:420][172]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.666
+[2019.11.17-00.46.29:421][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.46.42:503][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.46.42:503][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.46.42:539][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.46.42:539][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.46.42:596][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.46.42:601][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.11.17-00.46.42:654][623]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.11.17-00.46.45:142][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.46.47:343][938]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.17-00.47.37:804][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.47.38:493][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-00.47.48:659][480]Cmd: STAT FPS
+[2019.11.17-00.47.50:719][618]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.47.50:735][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.47.50:736][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.47.50:736][618]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:47:50 AM)
+[2019.11.17-00.47.50:736][618]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.47.50:778][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042650s)
+[2019.11.17-00.47.50:778][618]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.47.50:779][618]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.11.17-00.47.50:779][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.043573s)
+[2019.11.17-00.47.50:852][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.11.17-00.47.50:890][618]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.47.50:900][618]LogInit: FAudioDevice initialized.
+[2019.11.17-00.47.50:930][618]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.47.50:935][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.47.50
+[2019.11.17-00.47.50:935][618]LogWorld: Bringing up level for play took: 0.004698
+[2019.11.17-00.47.50:948][618]LogBlueprintUserMessages: [BP_Tunnel_5] 248399.859375
+[2019.11.17-00.47.50:948][618]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.862
+[2019.11.17-00.47.50:948][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.49.28:805][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.49.28:806][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.49.28:839][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.49.28:839][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.49.28:894][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.49.28:899][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.11.17-00.49.28:963][486]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.11.17-00.49.38:316][ 92]LogEditorViewport: Clicking on Actor (LMB): BP_Tunnel_C (BP_Tunnel)
+[2019.11.17-00.49.54:245][988]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.17-00.50.00:157][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.50.00:246][336]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-00.50.00:261][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.50.00:261][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-00.50.00:261][336]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 2:50:00 AM)
+[2019.11.17-00.50.00:261][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-00.50.00:269][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007638s)
+[2019.11.17-00.50.00:270][336]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-00.50.00:270][336]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2019.11.17-00.50.00:270][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.008383s)
+[2019.11.17-00.50.00:332][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.11.17-00.50.00:366][336]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-00.50.00:378][336]LogInit: FAudioDevice initialized.
+[2019.11.17-00.50.00:409][336]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-00.50.00:410][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-01.50.00
+[2019.11.17-00.50.00:411][336]LogWorld: Bringing up level for play took: 0.001326
+[2019.11.17-00.50.00:424][336]LogBlueprintUserMessages: [BP_Tunnel_5] 30626.798828
+[2019.11.17-00.50.00:424][336]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.338
+[2019.11.17-00.50.00:424][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.50.14:133][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.50.14:133][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.50.14:169][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-00.50.14:169][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-00.50.14:219][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-00.50.14:224][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.11.17-00.50.14:271][880]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.11.17-00.50.23:870][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.54.15:329][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.11.17-00.54.15:578][754]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/TimoTestMap_Auto0A48ABE7E4C4ADF368B38F6B738684E8D.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Maps/TimoTestMap_Auto0.umap'
+[2019.11.17-00.54.15:580][754]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TimoTestMap' took 0.302
+[2019.11.17-00.54.15:580][754]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.302
+[2019.11.17-00.54.15:582][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2019.11.17-00.54.15:582][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Tunnel]
+[2019.11.17-00.54.15:629][754]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/BP_Tunnel_Auto0548AED7F4B19E3193735CD924CBD6ED4.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/Autosaves/Game/Blueprints/BP_Tunnel_Auto0.uasset'
+[2019.11.17-00.54.15:629][754]LogFileHelpers: Auto-saving content packages took 0.048
+[2019.11.17-00.55.22:219][872]LogEditorViewport: Clicking on Actor (LMB): BP_Tunnel_C (BP_Tunnel)
+[2019.11.17-00.55.27:887][232]Cmd: DELETE
+[2019.11.17-00.55.27:887][232]Cmd: ACTOR DELETE
+[2019.11.17-00.55.27:891][232]LogEditorActor: Deleted Actor: BP_Tunnel_C
+[2019.11.17-00.55.27:941][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.11.17-00.55.27:942][232]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2019.11.17-00.55.37:736][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.55.47:529][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.56.20:907][607]Cmd: TRANSACTION UNDO
+[2019.11.17-00.56.20:907][607]LogEditorTransaction: Undo Move Actors
+[2019.11.17-00.56.23:768][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.56.26:048][906]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.11.17-00.56.27:767][ 15]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.11.17-00.56.28:374][ 52]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.11.17-00.56.28:859][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.11.17-00.56.29:481][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.11.17-00.56.30:548][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.57.23:318][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.57.23:409][540]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.57.23:762][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.11.17-00.57.34:611][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.57.51:739][331]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.57.52:005][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.11.17-00.58.07:021][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.58.14:045][743]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.58.14:325][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2019.11.17-00.58.42:110][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.58.53:127][269]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.58.53:419][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.11.17-00.59.16:665][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-00.59.44:124][599]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-00.59.44:428][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.11.17-01.00.17:231][575]Cmd: TRANSACTION UNDO
+[2019.11.17-01.00.17:231][575]LogEditorTransaction: Undo Move Actors
+[2019.11.17-01.00.25:247][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.00.25:318][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.00.25:343][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.00.25:343][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.00.25:343][ 73]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:00:25 AM)
+[2019.11.17-01.00.25:344][ 73]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.00.25:357][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012946s)
+[2019.11.17-01.00.25:357][ 73]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.00.25:357][ 73]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2019.11.17-01.00.25:357][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.013721s)
+[2019.11.17-01.00.25:420][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.11.17-01.00.25:458][ 73]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.00.25:469][ 73]LogInit: FAudioDevice initialized.
+[2019.11.17-01.00.25:498][ 73]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.00.25:500][ 73]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.00.25
+[2019.11.17-01.00.25:500][ 73]LogWorld: Bringing up level for play took: 0.001750
+[2019.11.17-01.00.25:513][ 73]LogBlueprintUserMessages: [BP_Tunnel_9] 65879.765625
+[2019.11.17-01.00.25:513][ 73]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.573
+[2019.11.17-01.00.25:513][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.00.36:464][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.00.36:464][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.00.36:532][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.00.36:532][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.00.36:586][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.00.36:591][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.11.17-01.00.36:676][940]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.11.17-01.00.37:492][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.00.37:568][996]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.00.37:583][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.00.37:583][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.00.37:583][996]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:00:37 AM)
+[2019.11.17-01.00.37:583][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.00.37:596][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012897s)
+[2019.11.17-01.00.37:597][996]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.00.37:597][996]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2019.11.17-01.00.37:597][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.013648s)
+[2019.11.17-01.00.37:641][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.17-01.00.37:672][996]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.00.37:683][996]LogInit: FAudioDevice initialized.
+[2019.11.17-01.00.37:716][996]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.00.37:718][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.00.37
+[2019.11.17-01.00.37:718][996]LogWorld: Bringing up level for play took: 0.001804
+[2019.11.17-01.00.37:731][996]LogBlueprintUserMessages: [BP_Tunnel_9] 65879.765625
+[2019.11.17-01.00.37:731][996]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.356
+[2019.11.17-01.00.37:731][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.00.49:107][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.00.49:107][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.00.49:149][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.00.49:150][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.00.49:197][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.00.49:202][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.11.17-01.00.49:274][908]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.11.17-01.01.03:722][818]LogEditorViewport: Clicking on Actor (LMB): BP_Tunnel_C (BP_Tunnel)
+[2019.11.17-01.01.25:968][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.01.40:727][139]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.01.41:033][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.11.17-01.02.40:838][ 51]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.02.41:130][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.11.17-01.02.59:190][228]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.02.59:483][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.11.17-01.03.19:522][546]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.03.19:819][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.11.17-01.03.27:815][ 69]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.03.28:112][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.11.17-01.03.29:403][148]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.03.29:697][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.17-01.03.51:466][559]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.03.51:734][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.11.17-01.04.36:244][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.05.12:440][908]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.05.12:713][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.11.17-01.05.28:571][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.05.28:656][930]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.05.28:681][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.05.28:682][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.05.28:682][930]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:05:28 AM)
+[2019.11.17-01.05.28:682][930]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.05.28:686][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003726s)
+[2019.11.17-01.05.28:686][930]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.05.28:686][930]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.11.17-01.05.28:686][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.004576s)
+[2019.11.17-01.05.28:738][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.11.17-01.05.28:770][930]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.05.28:782][930]LogInit: FAudioDevice initialized.
+[2019.11.17-01.05.28:814][930]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.05.28:815][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.05.28
+[2019.11.17-01.05.28:815][930]LogWorld: Bringing up level for play took: 0.000874
+[2019.11.17-01.05.28:829][930]LogBlueprintUserMessages: [BP_Tunnel_9] 64598.207031
+[2019.11.17-01.05.28:830][930]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.743
+[2019.11.17-01.05.28:830][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.05.32:094][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.05.32:094][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.05.32:143][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.05.32:143][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.05.32:191][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.05.32:196][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.17-01.05.32:253][186]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.11.17-01.05.40:514][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.06.18:492][653]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.06.18:778][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.11.17-01.06.22:192][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.06.22:281][868]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.06.22:305][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.22:306][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.06.22:306][868]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:06:22 AM)
+[2019.11.17-01.06.22:306][868]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.06.22:319][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012891s)
+[2019.11.17-01.06.22:319][868]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.06.22:319][868]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2019.11.17-01.06.22:319][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.013578s)
+[2019.11.17-01.06.22:367][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.11.17-01.06.22:399][868]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.06.22:409][868]LogInit: FAudioDevice initialized.
+[2019.11.17-01.06.22:437][868]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.06.22:439][868]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.06.22
+[2019.11.17-01.06.22:439][868]LogWorld: Bringing up level for play took: 0.001778
+[2019.11.17-01.06.22:452][868]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.366
+[2019.11.17-01.06.22:452][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.29:679][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.29:679][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.06.29:715][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.06.29:715][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.29:765][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.06.29:771][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.11.17-01.06.29:834][498]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.11.17-01.06.30:676][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.06.30:753][556]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.06.30:770][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.30:770][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.06.30:770][556]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:06:30 AM)
+[2019.11.17-01.06.30:770][556]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.06.30:783][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013129s)
+[2019.11.17-01.06.30:784][556]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.06.30:784][556]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2019.11.17-01.06.30:784][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.013949s)
+[2019.11.17-01.06.30:834][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.11.17-01.06.30:865][556]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.06.30:876][556]LogInit: FAudioDevice initialized.
+[2019.11.17-01.06.30:906][556]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.06.30:908][556]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.06.30
+[2019.11.17-01.06.30:908][556]LogWorld: Bringing up level for play took: 0.001596
+[2019.11.17-01.06.30:921][556]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.835
+[2019.11.17-01.06.30:921][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.34:667][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.34:668][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.06.34:703][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.06.34:703][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.34:762][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.06.34:767][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.11.17-01.06.34:813][883]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.11.17-01.06.44:795][596]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.06.45:083][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.11.17-01.06.47:787][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.06.47:814][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.47:814][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.06.47:814][768]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:06:47 AM)
+[2019.11.17-01.06.47:814][768]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.06.47:827][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012864s)
+[2019.11.17-01.06.47:828][768]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.06.47:828][768]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2019.11.17-01.06.47:828][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.013573s)
+[2019.11.17-01.06.47:871][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.11.17-01.06.47:903][768]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.06.47:914][768]LogInit: FAudioDevice initialized.
+[2019.11.17-01.06.47:945][768]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.06.47:947][768]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.06.47
+[2019.11.17-01.06.47:947][768]LogWorld: Bringing up level for play took: 0.001734
+[2019.11.17-01.06.47:960][768]LogBlueprintUserMessages: [BP_Tunnel_9] 66981.8125
+[2019.11.17-01.06.47:960][768]LogBlueprintUserMessages: [BP_Tunnel_9] 69194.0
+[2019.11.17-01.06.47:960][768]LogBlueprintUserMessages: [BP_Tunnel_9] 71523.585938
+[2019.11.17-01.06.47:960][768]LogBlueprintUserMessages: [BP_Tunnel_9] 74100.953125
+[2019.11.17-01.06.47:960][768]LogBlueprintUserMessages: [BP_Tunnel_9] 77429.84375
+[2019.11.17-01.06.47:960][768]LogBlueprintUserMessages: [BP_Tunnel_9] 80033.75
+[2019.11.17-01.06.47:960][768]LogBlueprintUserMessages: [BP_Tunnel_9] 7014.855469
+[2019.11.17-01.06.47:960][768]LogBlueprintUserMessages: [BP_Tunnel_9] 7014.855469
+[2019.11.17-01.06.47:960][768]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.126
+[2019.11.17-01.06.47:961][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.56:112][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.56:112][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.06.56:147][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.06.56:147][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.06.56:197][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.06.56:203][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.11.17-01.06.56:269][476]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.11.17-01.07.03:925][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.07.24:933][384]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.07.25:218][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.11.17-01.08.29:454][639]LogSlate: Window 'Tutorials' being destroyed
+[2019.11.17-01.08.40:899][404]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.08.41:173][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.11.17-01.08.45:977][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.08.46:703][765]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.17-01.09.00:978][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.09.13:937][564]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.09.14:262][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.11.17-01.09.23:150][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.09.40:255][267]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.09.40:592][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.17-01.09.48:248][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.09.48:321][740]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.09.48:346][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.09.48:346][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.09.48:346][740]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:09:48 AM)
+[2019.11.17-01.09.48:346][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.09.48:359][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012770s)
+[2019.11.17-01.09.48:360][740]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.09.48:360][740]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2019.11.17-01.09.48:360][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.013483s)
+[2019.11.17-01.09.48:410][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.11.17-01.09.48:447][740]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.09.48:458][740]LogInit: FAudioDevice initialized.
+[2019.11.17-01.09.48:485][740]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.09.48:487][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.09.48
+[2019.11.17-01.09.48:487][740]LogWorld: Bringing up level for play took: 0.001800
+[2019.11.17-01.09.48:501][740]LogBlueprintUserMessages: [BP_Tunnel_9] 64598.207031
+[2019.11.17-01.09.48:501][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.415
+[2019.11.17-01.09.48:502][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.10.21:108][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.10.21:108][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.10.21:150][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.10.21:150][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.10.21:203][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.10.21:208][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.11.17-01.10.21:283][470]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.11.17-01.10.24:337][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.10.24:891][699]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.17-01.10.46:037][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.12.29:387][346]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.12.29:723][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.11.17-01.13.00:983][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.13.01:068][307]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.01:408][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.11.17-01.13.03:337][409]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.13.03:363][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.13.03:363][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.13.03:363][409]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:13:03 AM)
+[2019.11.17-01.13.03:363][409]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.13.03:377][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013307s)
+[2019.11.17-01.13.03:377][409]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.13.03:377][409]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2019.11.17-01.13.03:377][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.013991s)
+[2019.11.17-01.13.03:425][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.11.17-01.13.03:458][409]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.13.03:468][409]LogInit: FAudioDevice initialized.
+[2019.11.17-01.13.03:502][409]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.13.03:504][409]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.13.03
+[2019.11.17-01.13.03:504][409]LogWorld: Bringing up level for play took: 0.001904
+[2019.11.17-01.13.03:517][409]LogBlueprintUserMessages: [BP_Tunnel_9] 64598.207031
+[2019.11.17-01.13.03:517][409]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap -0.569
+[2019.11.17-01.13.03:517][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.13.12:599][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.13.12:600][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.13.12:643][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.13.12:643][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.13.12:697][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.13.12:702][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.11.17-01.13.12:785][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2019.11.17-01.13.17:811][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.13.23:154][731]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.23:483][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.11.17-01.13.30:231][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-01.13.30:339][165]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.30:674][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.11.17-01.13.31:897][234]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.32:229][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.11.17-01.13.33:422][300]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.33:751][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.11.17-01.13.35:723][419]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.36:061][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.11.17-01.13.37:361][493]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.37:694][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.11.17-01.13.39:100][574]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.39:438][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.17-01.13.40:499][630]BlueprintLog: New page: Compile BP_Tunnel
+[2019.11.17-01.13.40:835][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.17-01.13.44:794][880]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.17-01.13.44:826][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.13.44:826][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.17-01.13.44:826][880]PIE: New page: PIE session: TimoTestMap (Nov 17, 2019, 3:13:44 AM)
+[2019.11.17-01.13.44:827][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TimoTestMap
+[2019.11.17-01.13.44:840][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012777s)
+[2019.11.17-01.13.44:840][880]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.13.44:840][880]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2019.11.17-01.13.44:840][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TimoTestMap.TimoTestMap to /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap (0.013467s)
+[2019.11.17-01.13.44:892][880]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.11.17-01.13.44:925][880]LogInit: XAudio2 using 'Speakers (RODE NT-USB)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-01.13.44:936][880]LogInit: FAudioDevice initialized.
+[2019.11.17-01.13.44:967][880]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.11.17-01.13.44:969][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TimoTestMap.TimoTestMap up for play (max tick rate 0) at 2019.11.17-02.13.44
+[2019.11.17-01.13.44:969][880]LogWorld: Bringing up level for play took: 0.001690
+[2019.11.17-01.13.44:984][880]LogBlueprintUserMessages: [BP_Tunnel_9] 64598.207031
+[2019.11.17-01.13.44:984][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TimoTestMap 0.897
+[2019.11.17-01.13.44:984][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.14.18:472][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.14.18:472][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.14.18:517][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.17-01.14.18:517][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap' with GeneratedClass '/Game/Maps/TimoTestMap.TimoTestMap_C' with ClassGeneratedBy '/Game/Maps/TimoTestMap.TimoTestMap:PersistentLevel.TimoTestMap'
+[2019.11.17-01.14.18:566][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-01.14.18:571][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.11.17-01.14.18:659][352]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.11.17-01.14.21:657][520]LogEditorViewport: Clicking on Actor (LMB): BP_Tunnel_C (BP_Tunnel)
+[2019.11.17-01.14.21:965][535]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.17-01.14.51:945][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.17-01.14.51:953][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TimoTestMap" FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.17-01.14.52:001][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.11.17-01.14.52:274][431]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/TimoTestMapC209AEFF46DD60C704B6FC87621591E5.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap'
+[2019.11.17-01.14.56:285][672]LogSlate: Window 'TwinStickPawn' being destroyed
+[2019.11.17-01.14.56:290][672]LogSlate: Window 'TwinStickPawn' being destroyed
+[2019.11.17-01.14.56:291][672]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.17-01.14.56:666][672]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.17-01.15.05:454][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.11.17-01.15.05:532][693]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/TwinStickPawn812D76104EA774F0BEB4CFB0C9D2F23A.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2019.11.17-01.15.05:542][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStick/Meshes/BaseMaterial" FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/TwinStick/Meshes/BaseMaterial.uasset" SILENT=true
+[2019.11.17-01.15.05:557][693]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/BaseMaterial57C47262494B406422741FBC7EA8973B.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/TwinStick/Meshes/BaseMaterial.uasset'
+[2019.11.17-01.15.05:564][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Tunnel" FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Meshes/SM_Tunnel.uasset" SILENT=true
+[2019.11.17-01.15.05:580][693]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/SM_TunnelA8DBAA6547F13C0554D22F9423C1AB44.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Meshes/SM_Tunnel.uasset'
+[2019.11.17-01.15.05:587][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tunnel" FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2019.11.17-01.15.05:641][693]LogSavePackage: Moving 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Saved/BP_Tunnel7AEDAFEC41493AC6B71201BF28501231.tmp' to 'D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Blueprints/BP_Tunnel.uasset'
+[2019.11.17-01.15.50:922][108]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.15.50:983][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.11.17-01.15.50:984][108]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.15.50:985][108]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.50:985][108]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.15.50:986][108]MapCheck: New page: Map Check
+[2019.11.17-01.15.50:986][108]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.51:029][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.11.17-01.15.51:056][108]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.15.51:132][108]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.15.51:172][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.17-01.15.51:192][108]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.15.51:192][108]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2019.11.17-01.15.51:193][108]LogFileHelpers: Loading map 'TimoTestMap' took 0.210
+[2019.11.17-01.15.52:250][229]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.15.52:285][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.11.17-01.15.52:286][229]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.15.52:286][229]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.52:287][229]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.15.52:287][229]MapCheck: New page: Map Check
+[2019.11.17-01.15.52:287][229]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.52:323][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.11.17-01.15.52:343][229]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.15.52:423][229]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.15.52:468][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.11.17-01.15.52:491][229]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.15.52:491][229]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2019.11.17-01.15.52:492][229]LogFileHelpers: Loading map 'TimoTestMap' took 0.208
+[2019.11.17-01.15.53:061][293]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.15.53:101][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.11.17-01.15.53:103][293]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.15.53:103][293]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.53:103][293]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.15.53:104][293]MapCheck: New page: Map Check
+[2019.11.17-01.15.53:104][293]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.53:145][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.17-01.15.53:164][293]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.15.53:234][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.15.53:272][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.11.17-01.15.53:296][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.15.53:297][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2019.11.17-01.15.53:298][293]LogFileHelpers: Loading map 'TimoTestMap' took 0.196
+[2019.11.17-01.15.54:360][416]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.15.54:399][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.11.17-01.15.54:400][416]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.15.54:400][416]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.54:401][416]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.15.54:402][416]MapCheck: New page: Map Check
+[2019.11.17-01.15.54:402][416]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.54:444][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.11.17-01.15.54:463][416]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.15.54:531][416]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.15.54:574][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.17-01.15.54:595][416]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.15.54:596][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2019.11.17-01.15.54:597][416]LogFileHelpers: Loading map 'TimoTestMap' took 0.196
+[2019.11.17-01.15.56:257][611]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.15.56:297][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.17-01.15.56:298][611]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.15.56:299][611]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.56:299][611]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.15.56:300][611]MapCheck: New page: Map Check
+[2019.11.17-01.15.56:300][611]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.56:332][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.11.17-01.15.56:351][611]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.15.56:414][611]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.15.56:456][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.11.17-01.15.56:477][611]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.15.56:477][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2019.11.17-01.15.56:478][611]LogFileHelpers: Loading map 'TimoTestMap' took 0.181
+[2019.11.17-01.15.57:631][745]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.15.57:668][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.17-01.15.57:670][745]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.15.57:670][745]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.57:670][745]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.15.57:671][745]MapCheck: New page: Map Check
+[2019.11.17-01.15.57:671][745]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.57:707][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.11.17-01.15.57:726][745]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.15.57:787][745]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.15.57:827][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.17-01.15.57:849][745]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.15.57:849][745]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2019.11.17-01.15.57:850][745]LogFileHelpers: Loading map 'TimoTestMap' took 0.181
+[2019.11.17-01.15.58:977][876]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.15.59:015][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.11.17-01.15.59:017][876]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.15.59:017][876]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.59:017][876]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.15.59:018][876]MapCheck: New page: Map Check
+[2019.11.17-01.15.59:018][876]LightingResults: New page: Lighting Build
+[2019.11.17-01.15.59:058][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.17-01.15.59:077][876]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.15.59:140][876]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.15.59:177][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.11.17-01.15.59:199][876]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.15.59:199][876]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2019.11.17-01.15.59:200][876]LogFileHelpers: Loading map 'TimoTestMap' took 0.184
+[2019.11.17-01.16.00:065][975]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.16.00:103][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.17-01.16.00:105][975]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.16.00:105][975]LightingResults: New page: Lighting Build
+[2019.11.17-01.16.00:105][975]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.16.00:106][975]MapCheck: New page: Map Check
+[2019.11.17-01.16.00:106][975]LightingResults: New page: Lighting Build
+[2019.11.17-01.16.00:141][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.17-01.16.00:160][975]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.16.00:224][975]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.16.00:262][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.11.17-01.16.00:283][975]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.16.00:283][975]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2019.11.17-01.16.00:284][975]LogFileHelpers: Loading map 'TimoTestMap' took 0.180
+[2019.11.17-01.16.01:029][ 60]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TimoTestMap.TimoTestMap
+[2019.11.17-01.16.01:067][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.11.17-01.16.01:068][ 60]Cmd: MAP LOAD FILE="D:/GameProjectsGit/MegaJam19/SpaceMegaKittenJam/SpaceCatsJam/Content/Maps/TimoTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.17-01.16.01:068][ 60]LightingResults: New page: Lighting Build
+[2019.11.17-01.16.01:069][ 60]LoadErrors: New page: Loading map: TimoTestMap.umap
+[2019.11.17-01.16.01:069][ 60]MapCheck: New page: Map Check
+[2019.11.17-01.16.01:069][ 60]LightingResults: New page: Lighting Build
+[2019.11.17-01.16.01:109][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.17-01.16.01:127][ 60]LogAIModule: Creating AISystem for world TimoTestMap
+[2019.11.17-01.16.01:192][ 60]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.17-01.16.01:237][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.11.17-01.16.01:260][ 60]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.17-01.16.01:261][ 60]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2019.11.17-01.16.01:262][ 60]LogFileHelpers: Loading map 'TimoTestMap' took 0.195
